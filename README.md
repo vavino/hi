@@ -29,7 +29,7 @@
 
 <!-- Image link with an absolute link -->
 
-  <img src="https://png.pngtree.com/background/20231215/original/pngtree-funny-penguins-on-ice-slide-danger-antarctica-vitality-photo-picture-image_6834971.jpg" 
+  <img src="https://png.pngtree.com/background/20231215/original/pngtree-funny-penguins-on-ice-slide-danger-antarctica-vitality-photo-picture-image_6834971.jpg">
 
     <-- absolute link to my page one -->
 
