@@ -15,13 +15,9 @@
     
 <p>It's a great day here in Antarctica. Here we're able to see about 3 happy penguins dancing. It's very impressive as these guys are usually rare to come out. Fortunately you all came out in time to see them come out and do their rare mating dance.</p>
 
-
-  
-
-  
-
   <!-- Image link -->
 
+ 
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCOy8osgvaAU-aoSDMIT927VcdmWjEh4bfmdhQ4iR-OA&s=10">
 
 
@@ -37,9 +33,7 @@
 
         <-- relative link to my page two -->    
 
-    <a href="pageTwo.html"> Page Two </a>
-
-     
+    <a href="pageTwo.html"> Page Two </a>  
 
 </body>
 
