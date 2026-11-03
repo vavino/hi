@@ -29,9 +29,7 @@
 
 <!-- Image link with an absolute link -->
 
-  <img src="[https://www.sfspca.org/wp-content/uploads/2026/10/99c9ea47-2f82-4ff1-8e17-dbe49cdf3467.jpg" alt="Cat" width="250" height="300">](https://www.google.com/imgres?q=penguin%20funny%20antarctica&imgurl=https%3A%2F%2Fpng.pngtree.com%2Fbackground%2F20231215%2Foriginal%2Fpngtree-funny-penguins-on-ice-slide-danger-antarctica-vitality-photo-picture-image_6834971.jpg&imgrefurl=https%3A%2F%2Fpngtree.com%2Ffreebackground%2Ffunny-penguins-on-ice-slide-danger-antarctica-vitality-photo_6834971.html&docid=BIoO-E3jSzINoM&tbnid=5SLV914Kd-sYNM&vet=12ahUKEwiTipje9OyXAxUJJDQIHcPUGAoQnPAOegUI1gMQAA..i&w=1200&h=854&hcb=2&itg=1&ved=2ahUKEwiTipje9OyXAxUJJDQIHcPUGAoQnPAOegUI1gMQAA)
-
- 
+  <img src="https://png.pngtree.com/background/20231215/original/pngtree-funny-penguins-on-ice-slide-danger-antarctica-vitality-photo-picture-image_6834971.jpg" 
 
     <-- absolute link to my page one -->
 
