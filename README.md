@@ -13,9 +13,9 @@
 
   <h1>Antarctica OMG</h1>
 
-<p>Hello from Antarctica!Antarctica </p>
+<p>Hello from Antarctica!</p>
     
-<p>it's a great day here in Antarctica. Here we're able to see about 3 happy penguins dancing. It's very impressive as these guys are usually rare to come out.</p>
+<p>it's a great day here in Antarctica. Here we're able to see about 3 happy penguins dancing. It's very impressive as these guys are usually rare to come out. Fortunately you all came out in time to see them come out and do their rare mating dance.</p>
 
 
   
